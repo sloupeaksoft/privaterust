@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "rustprivate",
+    "name": "Rust Private (Tool Cupboard + Sleeping bag)",
+    "description": "Рабочий шкаф (приват 15 блоков, список авторизованных, деавторизация) и рабочий спальник для MineRust Addons.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["sloupeaksoft"]
+  }
+]
